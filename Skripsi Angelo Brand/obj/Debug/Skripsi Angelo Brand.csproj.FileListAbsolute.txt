@@ -1,0 +1,20 @@
+E:\TA LOGAN\PROGRAM\NEW\SKRIPSI\Skripsi Angelo Brand\bin\Debug\Skripsi Angelo Brand.exe.config
+E:\TA LOGAN\PROGRAM\NEW\SKRIPSI\Skripsi Angelo Brand\bin\Debug\Skripsi Angelo Brand.exe
+E:\TA LOGAN\PROGRAM\NEW\SKRIPSI\Skripsi Angelo Brand\bin\Debug\Skripsi Angelo Brand.pdb
+E:\TA LOGAN\PROGRAM\NEW\SKRIPSI\Skripsi Angelo Brand\obj\Debug\Skripsi Angelo Brand.csprojResolveAssemblyReference.cache
+E:\TA LOGAN\PROGRAM\NEW\SKRIPSI\Skripsi Angelo Brand\obj\Debug\Skripsi_Angelo_Brand.Skripsi_Angelo_Brand.resources
+E:\TA LOGAN\PROGRAM\NEW\SKRIPSI\Skripsi Angelo Brand\obj\Debug\Skripsi Angelo Brand.Properties.Resources.resources
+E:\TA LOGAN\PROGRAM\NEW\SKRIPSI\Skripsi Angelo Brand\obj\Debug\Skripsi Angelo Brand.csproj.GenerateResource.Cache
+E:\TA LOGAN\PROGRAM\NEW\SKRIPSI\Skripsi Angelo Brand\obj\Debug\Skripsi Angelo Brand.exe
+E:\TA LOGAN\PROGRAM\NEW\SKRIPSI\Skripsi Angelo Brand\obj\Debug\Skripsi Angelo Brand.pdb
+E:\aplikasi\Logan\TA LOGAN BARU\PROGRAM\Skripsi Angelo Brand\bin\Debug\Skripsi Angelo Brand.exe.config
+E:\aplikasi\Logan\TA LOGAN BARU\PROGRAM\Skripsi Angelo Brand\bin\Debug\Skripsi Angelo Brand.exe
+E:\aplikasi\Logan\TA LOGAN BARU\PROGRAM\Skripsi Angelo Brand\bin\Debug\Skripsi Angelo Brand.pdb
+E:\aplikasi\Logan\TA LOGAN BARU\PROGRAM\Skripsi Angelo Brand\obj\Debug\Skripsi Angelo Brand.csproj.AssemblyReference.cache
+E:\aplikasi\Logan\TA LOGAN BARU\PROGRAM\Skripsi Angelo Brand\obj\Debug\Skripsi_Angelo_Brand.Skripsi_Angelo_Brand.resources
+E:\aplikasi\Logan\TA LOGAN BARU\PROGRAM\Skripsi Angelo Brand\obj\Debug\Skripsi Angelo Brand.Properties.Resources.resources
+E:\aplikasi\Logan\TA LOGAN BARU\PROGRAM\Skripsi Angelo Brand\obj\Debug\Skripsi Angelo Brand.csproj.GenerateResource.cache
+E:\aplikasi\Logan\TA LOGAN BARU\PROGRAM\Skripsi Angelo Brand\obj\Debug\Skripsi Angelo Brand.csproj.CoreCompileInputs.cache
+E:\aplikasi\Logan\TA LOGAN BARU\PROGRAM\Skripsi Angelo Brand\obj\Debug\Skripsi Angelo Brand.csproj.CopyComplete
+E:\aplikasi\Logan\TA LOGAN BARU\PROGRAM\Skripsi Angelo Brand\obj\Debug\Skripsi Angelo Brand.exe
+E:\aplikasi\Logan\TA LOGAN BARU\PROGRAM\Skripsi Angelo Brand\obj\Debug\Skripsi Angelo Brand.pdb
